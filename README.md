@@ -14,9 +14,9 @@ Short description
 Long description
 
 * What is it ?
-    - Script to be run once in a while.
-    - Fonction to be added in your code
-    - User Interface to be user friendly
+    - Interactive script : 
+    - Cmdlet script :
+    - User Interface for script :
     
 * Who is it for ?
     - IT Support
