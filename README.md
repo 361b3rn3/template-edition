@@ -16,22 +16,16 @@ Long description
 * What is it ?
     - Interactive script : 
     - Cmdlet script :
-    - User Interface for script :
     
 * Who is it for ?
     - IT Support
     - Power User
-    - Bets Tester
     
  * Why to use it ? 
-    - Clean the Operating Sytem with the unused user profile.
-    - Clean up on 32-bit & 64-bit
-    - Delete account not supported by native Windows tools
+    - Make your IT life easier
     
  * When to use it ?
-    - Whenever it is necessary to make room on the computer.
-    - Remove a corrupted account
-    - For testing purpose
+    - When you want save time
     
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
@@ -77,8 +71,7 @@ Get information about
 
 - [ ] Windows
     - [x] Script
-    - [ ] Function
-    - [ ] Interface
+    - [ ] Cmdlet
    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,18 +85,11 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## SEE ALSO
-* [Remove-LocalUser](https://learn.microsoft.com/en-gb/powershell/module/microsoft.powershell.localaccounts/remove-localuser)
-* [Delprof2 – User Profile Deletion Tool](https://helgeklein.com/free-tools/delprof2-user-profile-deletion-tool)
-* [User Profile Deletion Utility (Delprof.exe)](https://www.microsoft.com/en-us/download/details.aspx?id=5405) 
-
+## LINKS
+* [Microsoft](https://learn.microsoft.com/)
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## ACKNOWLEDGMENTS
-* [Choose an Open Source License](https://choosealicense.com)
-* [README Template](https://github.com/othneildrew/Best-README-Template)
-* [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
