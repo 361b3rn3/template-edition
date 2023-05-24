@@ -80,13 +80,13 @@ Get information about
 <!-- LICENSE -->
 ## LICENSE
 
-Distributed under the MIT license. See `LICENSE.txt` for more information.
+Distributed under the  Unlicense license. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## LINKS
-* [Microsoft](https://learn.microsoft.com/)
+* [Microsoft PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
